@@ -1,0 +1,11 @@
+Room Number: 5
+Name: kaiwa
+Father/Guardian Name: shahid
+Student CNIC: 12345678
+Father CNIC: 123456789
+Student Phone: 00000000000
+Father Phone: 000000000
+Booking Date: university
+Amount Paid: 12344
+Payment Date: 23
+
